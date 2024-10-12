@@ -1,1 +1,1 @@
-# KERNEL
+# phân tích KERNEL LINUX
